@@ -1,0 +1,7 @@
+AUTHOR: Oleksandr Tymoshenko <gonzo@freebsd.org>
+PREFIX: am335x_pwm
+MACRO_PREFIX: PWM
+DRIVER: am335x_pwm
+FDT_COMPATIBLE: ti,am335x-pwm
+IRQ_RESOURCES: 0 
+MEM_RESOURCES: 4
